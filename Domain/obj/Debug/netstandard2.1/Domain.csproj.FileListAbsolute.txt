@@ -1,0 +1,5 @@
+F:\onionAcr\OnionArchitectture\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+F:\onionAcr\OnionArchitectture\Domain\bin\Debug\netstandard2.1\Domain.dll
+F:\onionAcr\OnionArchitectture\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+F:\onionAcr\OnionArchitectture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+F:\onionAcr\OnionArchitectture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
